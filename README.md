@@ -1,3 +1,3 @@
-# eduarda fernandes maquiagem meu site de agendamentos
+# EF - Eduarda Fernandes Maquiagem
 
-<a href="https://eduardafernandesmaquiagem.github.io/index.html">Agendamentos Eduarda Fernandes Maquiagem</a>
+<a href="https://eduardaaugusta.github.io/eduardafernandesmaquiagem.github.io/index.html">Agendamentos Eduarda Fernandes Maquiagem</a>
