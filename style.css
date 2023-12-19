@@ -1,0 +1,94 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #FBE7EA; /* Cor de fundo da página */
+}
+
+header {
+    background-color: #FBE7EA;
+    padding: 20px;
+    text-align: center;
+}
+
+header img {
+    max-width: 100px; /* Ajuste conforme necessário */
+}
+
+header h1 {
+    margin: 10px 0 0;
+}
+
+header p {
+    margin-top: 5px;
+    color: #E27F89;
+}
+
+#gallery {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+    margin: 20px;
+}
+
+.portfolio-item {
+    max-width: 300px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.portfolio-item img {
+    max-width: 100%;
+    height: auto;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+
+.portfolio-item p {
+    color: #E27F89;
+}
+
+#availability {
+    text-align: center;
+    margin: 30px;
+}
+
+#availability h2 {
+    color: #E27F89; /* Cor do título */
+}
+
+#availability ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+#availability li {
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+
+#contact {
+    text-align: center;
+    margin: 30px;
+}
+
+button {
+    background-color: #E27F89;
+    color: #fff;
+    padding: 10px 20px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #E27F89;
+}
+
+footer {
+    background-color: #E27F89;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+}
