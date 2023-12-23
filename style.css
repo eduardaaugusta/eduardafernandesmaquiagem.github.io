@@ -92,3 +92,10 @@ footer {
     padding: 10px;
     text-align: center;
 }
+
+.portfolio-item img[src="fotos/Spa dos Lábios"] {
+    width: 100%;
+    max-width: 300px;
+    height: auto;
+    margin-bottom: 20px;
+}
